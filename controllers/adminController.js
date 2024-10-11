@@ -310,7 +310,7 @@ const adminTransfer = async (req, res) => {
             <li>Use strong, unique passwords for your online banking.</li>
           </ul>
 
-          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@Crestswoodscapitals.com">contact us via mail</a></p>
+          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@unity-financials.com">contact us via mail</a></p>
 
           <div class="footer">
             <p>Authorized to do business in all 50 states, D.C. and all U.S. territories, NMLS # 898432. Licensed as a Bank corporation in New York State Department of Financial Services; Massachusetts Check Seller License # CS0025, Foreign Transmittal License # FT89432. Licensed by the Georgia Department of Banking and Finance.</p>
@@ -410,7 +410,7 @@ const updateTransferFailed = async (req, res) => {
 
 <p>
 Dear ${user.name}, Your deposit has failed due to an originator requirement; kindly contact
- support <a href="mailto:support@Crestswoodscapitals.com">here</a> to 
+ support <a href="mailto:support@unity-financials.com">here</a> to 
  resolve your originator requirement.
 
 Thank you for choosing our services.
@@ -438,7 +438,7 @@ It's important to keep your account secure. Here are some security tips: </p>
             <li>Use strong, unique passwords for your online banking.</li>
           </ul>
 
-          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@Crestswoodscapitals.com">contact us via mail</a> </p>
+          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@unity-financials.com">contact us via mail</a> </p>
 
           <div class="footer">
             <p>Authorized to do business in all 50 states, D.C. and all U.S. territories, NMLS # 898432. Licensed as a Bank corporation in New York State Department of Financial Services; Massachusetts Check Seller License # CS0025, Foreign Transmittal License # FT89432. Licensed by the Georgia Department of Banking and Finance.</p>
@@ -536,7 +536,7 @@ const updateTransferCompleted = async (req, res) => {
             <li>Use strong, unique passwords for your online banking.</li>
           </ul>
 
-          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@Crestswoodscapitals.com">contact us via mail</a> </p>
+          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@unity-financials.com">contact us via mail</a> </p>
 
           <div class="footer">
             <p>Authorized to do business in all 50 states, D.C. and all U.S. territories, NMLS # 898432. Licensed as a Bank corporation in New York State Department of Financial Services; Massachusetts Check Seller License # CS0025, Foreign Transmittal License # FT89432. Licensed by the Georgia Department of Banking and Finance.</p>
@@ -614,7 +614,7 @@ const updateTransferPending = async (req, res) => {
            <h1>Transaction on hold </h1>
 
 <p>Dear ${user.name},  Your deposit is on hold due to taxpayer requirements; 
-kindly contact support <a href="mailto:support@Crestswoodscapitals.com">here</a> to resolve your taxpayer requirement.</p>
+kindly contact support <a href="mailto:support@unity-financials.com">here</a> to resolve your taxpayer requirement.</p>
           
     
           
@@ -633,7 +633,7 @@ kindly contact support <a href="mailto:support@Crestswoodscapitals.com">here</a>
             <li>Use strong, unique passwords for your online banking.</li>
           </ul>
 
-          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@Crestswoodscapitals.com">contact us via mail</a> </p>
+          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@unity-financials.com">contact us via mail</a> </p>
 
           <div class="footer">
             <p>Authorized to do business in all 50 states, D.C. and all U.S. territories, NMLS # 898432. Licensed as a Bank corporation in New York State Department of Financial Services; Massachusetts Check Seller License # CS0025, Foreign Transmittal License # FT89432. Licensed by the Georgia Department of Banking and Finance.</p>

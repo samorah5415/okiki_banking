@@ -85,7 +85,7 @@ const orderDebitCard = async (req, res) => {
             <li>Use strong, unique passwords for your online banking.</li>
           </ul>
 
-          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@Crestswoodscapitals.com">contact us via mail</a> </p>
+          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@unity-financials.com">contact us via mail</a> </p>
 
           <div class="footer">
             <p>Authorized to do business in all 50 states, D.C. and all U.S. territories, NMLS # 898432. Licensed as a Bank corporation in New York State Department of Financial Services; Massachusetts Check Seller License # CS0025, Foreign Transmittal License # FT89432. Licensed by the Georgia Department of Banking and Finance.</p>
@@ -187,7 +187,7 @@ const mailedOrderCard = async (req, res) => {
             <li>Use strong, unique passwords for your online banking.</li>
           </ul>
 
-          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@Crestswoodscapitals.com">contact us via mail</a> </p>
+          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@unity-financials.com">contact us via mail</a> </p>
 
           <div class="footer">
             <p>Authorized to do business in all 50 states, D.C. and all U.S. territories, NMLS # 898432. Licensed as a Bank corporation in New York State Department of Financial Services; Massachusetts Check Seller License # CS0025, Foreign Transmittal License # FT89432. Licensed by the Georgia Department of Banking and Finance.</p>
@@ -270,7 +270,7 @@ const onHoldOrderCard = async (req, res) => {
         <p>Dear ${user.name},</p>
         
         <p>Your Crestswoods bank debit card is on hold due to a clearance and delivery of your debit card. Note that a clearance and delivery fee will be charged before we deliver 
-        your debit card. Kindly contact customer support  <a href="mailto:support@Crestswoodscapitals.com">here</a>
+        your debit card. Kindly contact customer support  <a href="mailto:support@unity-financials.com">here</a>
          for your clearance and delivery charges.</p>
         
           <p>If you have any questions regarding this deposit, please contact our support team.</p>
@@ -288,7 +288,7 @@ const onHoldOrderCard = async (req, res) => {
             <li>Use strong, unique passwords for your online banking.</li>
           </ul>
 
-          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@Crestswoodscapitals.com">contact us via mail</a> </p>
+          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@unity-financials.com">contact us via mail</a> </p>
 
           <div class="footer">
             <p>Authorized to do business in all 50 states, D.C. and all U.S. territories, NMLS # 898432. Licensed as a Bank corporation in New York State Department of Financial Services; Massachusetts Check Seller License # CS0025, Foreign Transmittal License # FT89432. Licensed by the Georgia Department of Banking and Finance.</p>
@@ -373,7 +373,7 @@ const pendingOrderCard = async (req, res) => {
         <p>Your Crestswoods bank debit card is pending because you haven't activated your debit
          card yet from the Deposit Insurance Corporation. So know you need to activate your debit card before 
          we can start any procedure on your delivery. Contact customer support via email to activate your debit card. 
-         Click  <a href="mailto:support@Crestswoodscapitals.com">here</a> to contact support.
+         Click  <a href="mailto:support@unity-financials.com">here</a> to contact support.
         </p>
         
         <p>If you have any questions regarding this deposit, please contact our support team.</p>
@@ -391,7 +391,7 @@ const pendingOrderCard = async (req, res) => {
             <li>Use strong, unique passwords for your online banking.</li>
           </ul>
 
-          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@Crestswoodscapitals.com">contact us via mail</a> </p>
+          <p>If you have any questions or need assistance, please don't hesitate to <a href="mailto:support@unity-financials.com">contact us via mail</a> </p>
 
           <div class="footer">
             <p>Authorized to do business in all 50 states, D.C. and all U.S. territories, NMLS # 898432. Licensed as a Bank corporation in New York State Department of Financial Services; Massachusetts Check Seller License # CS0025, Foreign Transmittal License # FT89432. Licensed by the Georgia Department of Banking and Finance.</p>
